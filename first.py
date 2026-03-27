@@ -1,0 +1,12 @@
+# the first project the simple calculater
+a=float(input(" enter the first number :  "))
+b=float(input(" enter thr second number :  "))
+print("-- ADDITION--")
+print(a+b)
+print("-- SUBSTRACTION--")
+print(a-b)
+print("-- MULTIPLICATION --")
+print(a*b)
+print(" DIVITION")
+print(a/b)
+print(" all the four operations are performed ")
